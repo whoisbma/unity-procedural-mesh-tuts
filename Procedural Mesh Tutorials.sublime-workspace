@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"share",
+				"sharedMesh\tMesh { get; set; }"
+			],
+			[
+				"Reca",
+				"RecalculateNormals()\tvoid"
+			],
+			[
+				"IENumer",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"loadSc",
+				"LoadScene(int sceneBuildIndex)\tvoid"
+			],
+			[
+				"Instan",
+				"Instantiate<T>(T original)\tT"
+			],
+			[
+				"Ins",
+				"Instantiate<T>(T original)\tT"
+			],
+			[
+				"unscal",
+				"unscaledDeltaTime\tfloat { get; }"
+			],
+			[
+				"IEnum",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"upd",
+				"UpdateContinuous()\tvoid"
+			],
+			[
+				"GetComp",
+				"GetComponent<T>()\tT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/CubeSphere.cs",
+			"settings":
+			{
+				"buffer_size": 6581,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/MeshDeformer.cs",
+			"settings":
+			{
+				"buffer_size": 2530,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/MeshDeformerInput.cs",
+			"settings":
+			{
+				"buffer_size": 666,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Shaders/Custom Cube Grid.shader",
+			"settings":
+			{
+				"buffer_size": 1776,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 189.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"monokai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 320.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Scripts",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Shaders"
+	],
+	"file_history":
+	[
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Scripts/CircleGizmo.cs",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Scripts/CustomCube.cs",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Scripts/CustomGrid.cs",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Assets/Test.cs",
+		"/Users/bma/Code/Unity/reference/Procedural Mesh Tutorials/Procedural Mesh Tutorials.sublime-project",
+		"/Users/bma/Code/Unity/reference/splines tutorial/Assets/TestScript.cs",
+		"//",
+		"/Users/bma/Code/Unity/reference/splines tutorial/splines tutorial.sublime-project",
+		"/Users/bma/Code/Unity/reference/splines tutorial/splines tutorial.sublime-workspace",
+		"/Users/bma/Code/Unity/reference/splines tutorial/splines tutorial.sln",
+		"/Users/bma/Code/Unity/reference/splines tutorial/pottery-mesh-test.sublime-project",
+		"/Users/bma/Code/Unity/reference/splines tutorial/pottery-mesh-test.sublime-workspace",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/StuffSpawnerRing.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/StuffSpawner.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/SceneSwitcher.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/ObjectPool.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/PooledObject.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Object Pools/Stuff.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/NucleonSpawner.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/FPSDisplay.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/FPSCounter.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Nucleon.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Fractal.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/Clock.cs",
+		"/Users/bma/Code/Unity/WIP/MAX-artist-studio-pottery/prototypes/pottery-mesh-test/Assets/Scripts/TestScript.cs",
+		"/Users/bryanma/Library/Application Support/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/Users/bryanma/Code/Unity/Unity2017/pottery-mesh-test/pottery-mesh-test.sublime-project",
+		"/Users/bryanma/Desktop/something.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"collider",
+			"spring",
+			"gizmos",
+			"ondrawGi",
+			"zSize",
+			"ySize",
+			"xSize",
+			"quads"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gridSize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/CubeSphere.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5912,
+								5912
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"3318,3320": "Assignment is redundant",
+								"6273,6276": "Parameter can be declared with base type",
+								"6279,6288": "Parameter can be IList"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1238.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/MeshDeformer.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1495,
+								1495
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"oops":
+							{
+								"1343,1356": "Using member of null value will cause a NullReferenceException",
+								"1620,1622": "Convert to '?:' expression"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/MeshDeformerInput.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"26,31": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Shaders/Custom Cube Grid.shader",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1421,
+								1421
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Unity3D Shader Highlighter and Snippets/UnityShader.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 107.0
+	},
+	"pinned_build_system": "",
+	"project": "Procedural Mesh Tutorials.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
